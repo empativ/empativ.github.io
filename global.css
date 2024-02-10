@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --heading-3: "Josefin Sans";
+    --font-poppins: Poppins;
+  
+    /* font sizes */
+    --body-text-size: 24px;
+    --heading-3-size: 36px;
+    --body-text-1-size: 40px;
+    --heading-1-size: 64px;
+    --font-size-mini: 15px;
+  
+    /* Colors */
+    --primary-white: #fff;
+    --primary-black: #000;
+    --color-plum-100: #f9a8dc;
+  
+    /* Gaps */
+    --gap-4xl: 23px;
+    --gap-179xl: 198px;
+    --gap-12xl: 31px;
+    --gap-xl: 20px;
+    --gap-3xs: 10px;
+    --gap-29xl: 48px;
+    --gap-4xs: 9px;
+  
+    /* Paddings */
+    --padding-xl: 20px;
+    --padding-3xs: 10px;
+    --padding-base: 16px;
+  
+    /* Border radiuses */
+    --br-xs: 12px;
+    --br-2xs: 11px;
+    --br-8xl: 27px;
+    --br-xl: 20px;
+  }
+  
